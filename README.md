@@ -7,7 +7,7 @@
 
 ---
 
-This project demonstrates Data cleaning, statistical analysis, and modeling of the Titanic dataset using R, SQL, and Excel.
+This project demonstrates data cleaning, statistical analysis, and modeling of the Titanic dataset using R, SQL, and Excel.
 
 ---
 
