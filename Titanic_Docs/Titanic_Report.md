@@ -1,6 +1,6 @@
 ## IN THE WORKS
 
-# Titanic Data Analysis Exercises
+# Titanic Data Analysis Report
 
 **Dashinee Parmanum**  
 *Self-directed portfolio hybrid project in Statistics and Data Analysis - Winter 2026*
