@@ -31,7 +31,7 @@ This project demonstrates data cleaning, statistical analysis, and modeling of t
 - 
 
 ## Data Source and License
-The dataset used in this project was obtained from Kaggle at [https://www.kaggle.com/datasets/soumyashanker/superstore-us/data](https://www.kaggle.com/datasets/yasserh/titanic-dataset).
+The dataset used in this project was obtained from Kaggle at [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset).
 > CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
 
 ---
