@@ -7,54 +7,54 @@
 
 ---
 ## 0. Original Data and Setup
--
-
----
-## 1. Which products, sub-categories, and categories generate the highest sales and profit? 
 - 
 
 ---
-## 2. Which regions, states, and cities are the most profitable?  
+## 1. What was the overall survival rate among passengers?
 - 
 
 ---
-## 3. How do sales and profit change over time (monthly, quarterly, yearly)?  
+## 2. How did survival vary by passenger class?
 - 
 
 ---
-## 4. Which customer segments contribute most to revenue and profit?
+## 3. Were women and children more likely to survive than men?
 - 
 
 ---
- ## 5. How do discounts affect sales volume and profitability?
+## 4. How did age affect survival chances?
 - 
 
 ---
-## 6. Which products or sub-categories are underperforming in sales or profit?
+## 5. Did having family aboard increase or decrease the likelihood of survival?
 - 
 
 ---
-## 7. Are there seasonal trends in sales across months or quarters? 
+## 6. Which embarkation port had the highest survival rate?
 - 
 
 ---
-## 8. How does ship mode relate to sales, profit, or customer satisfaction?
--  
-
----
-## 9. Which customers have the highest purchase frequency or total spend? 
-- 
- 
----
-## 10. Are there geographic trends—states or regions that consistently perform well or poorly?
+## 7. Were higher-paying passengers more likely to survive?
 - 
 
 ---
-## 11. Which products or categories have the highest profit margin relative to sales? 
+## 8. How did the Cabin variable such as deck relate to survival?
 - 
 
 ---
-## 12. What actionable insights can inform marketing, inventory, or pricing strategies?  
+## 9. Which combinations of features best explain survival patterns?
+- 
+
+---
+## 10. Can a logistic regression model predict survival based on features like Pclass, Sex, Age, and Fare?
+- 
+
+---
+## 11. How accurate is the predictive model compared to the actual survival outcomes?
+- 
+
+---
+## 12. What actionable insights or patterns can be drawn about who survived and why?
 - 
 
 ---
